@@ -1,0 +1,4 @@
+﻿  bignumber.cpp
+C:\Users\HP\source\repos\Project29\Project29\bignumber.cpp(212): warning C4715: 'bignum::operator>': not all control paths return a value
+C:\Users\HP\source\repos\Project29\Project29\bignumber.cpp(232): warning C4715: 'bignum::operator<': not all control paths return a value
+  Project29.vcxproj -> C:\Users\HP\source\repos\Project29\x64\Debug\Project29.exe
